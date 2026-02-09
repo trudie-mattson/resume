@@ -7,9 +7,9 @@
 
 ## Skills
 
-1. Making pasta.
+**1. Making pasta.**
 
-2. Activating Conda.
+**2. Activating Conda.**
 
 
 Hyperlink HERE:
